@@ -19,26 +19,7 @@ This repository contains a Python-based tool for generating and refining Instagr
 5. **Revision**: Iteratively refines the post based on feedback and additional research.
 6. **Visual Generation**: Generates AI-based visual prompts for the post using image generation models.
 
-## Usage
 
-1. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. **Run the Gradio Interface**:
-   ```bash
-   python app.py
-   ```
-
-3. **Input Topic and Parameters**:
-   - Enter the topic for your Instagram post.
-   - Set the maximum number of revisions.
-
-4. **View Outputs**:
-   - **Plan**: Detailed outline for the post.
-   - **Draft**: Initial draft of the post.
-   - **Critique**: Feedback on the draft for improvement.
 
 ## Code Structure
 
